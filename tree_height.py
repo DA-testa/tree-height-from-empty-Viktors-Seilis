@@ -1,5 +1,5 @@
 # Viktors Valdis Seilis
-# 221RDB406
+# 221RDB406  
 # python3 
 
 import sys
